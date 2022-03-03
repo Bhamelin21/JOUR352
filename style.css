@@ -1,0 +1,56 @@
+h1{
+	color:darkorange;
+	font-weight: 530;
+	font-family: 'Barlow', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-size: 20px;
+	color:black;
+	line-height: 200%;
+	margin-bottom: 30px;
+	font-family: 'Barlow', sans-serif;}
+
+body{
+	background-color: lightgrey;
+}
+
+ol{
+	line-height: 150%;
+}
+
+h2{
+	color: black;
+	font-family: 'Barlow', sans-serif;
+}
+
+table{
+	border: 5px solid;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr, th, td{
+	border: 1px solid;
+	text-align: left;
+	line-height: 200%;
+	text-indent: 5px;
+	font-family: 'Barlow', sans-serif;
+color: black;
+}
+
+
+	
+
+
+.item{
+  width:400px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}

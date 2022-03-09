@@ -1,0 +1,51 @@
+.mainHeader{
+	background-color: lightgray;
+	color: darkorange;
+}
+
+p{
+margin-top: 25px;
+line-height: 200%;
+margin-bottom: 25px;
+}
+
+.sidebar{
+	background-color: lightgray;
+}
+
+.calloutstyle{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	background-color: darkorange;
+	align: center;
+
+}
+
+.box1{
+	background-color: yellow;
+}
+
+.box2{
+	background-color: green;
+}
+.box3{
+	background-color: orange;
+}
+
+body{
+	background-color: lightgray;
+	margin-left: 15px;
+	margin-right: 15px;
+ 
+}
+
+.images{
+	
+	padding-left: 15px;
+	
+}
+
+.example-menu{
+	background-color: darkgray;
+}
+

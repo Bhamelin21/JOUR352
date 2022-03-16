@@ -40,12 +40,46 @@ body{
 }
 
 .images{
-	
-	padding-left: 15px;
-	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.example-menu{
-	background-color: darkgray;
+	
+
+
+.top-bar {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+    margin-top:0px !important;
+    width:100% !important;
 }
 
+
+
+.has-submenu{
+	width: 25%;
+	padding-left: 130px;
+}
+
+.figcap{
+	margin-top: 10px;
+	display: block;
+text-align: center;
+
+}
+
+.video{
+  display: block;
+margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Orioles{
+	margin-left: 20px;
+}

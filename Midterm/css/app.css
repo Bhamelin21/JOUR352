@@ -1,0 +1,36 @@
+body {
+	background-color: lightgray;
+}
+
+/* This controls my title */
+
+.moneytalks {
+	text-align: left;
+	padding-bottom: 10px;
+	background-color: #FC6952;
+}
+
+/*This controls my video embed*/
+
+.promo{
+	display: block;
+	line-height: 120%;
+	
+
+
+}
+
+iframe {
+	padding-bottom: 10px;
+	
+}
+
+p {
+line-height: 220%;
+padding-bottom: 5px;
+
+}
+
+/*This is for the pullquote */
+.pquote {   text-align: center;   width: 100%;    color: black;    font-size: 25px;    line-height: 0.9;    font-style: italic;    padding: 14px;}
+
